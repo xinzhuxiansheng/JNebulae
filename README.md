@@ -20,7 +20,7 @@
 
 **`框架`**
 
-| 📊 |⚔️ | 🖥 |
+| <img src="docs/images/elasticsearch_icon.jpg" width="30" hegiht="30" align=center /> | <img src="docs/images/apache druid.png" width="55" hegiht="55" align=center /> | 🖥 |
 | :--------: | :---------: | :---------: |
 | [Elasticsearch](#Elasticsearch) | [Apache Druid](#Apache-Druid)|[Kafka](#Kafka) |
 
@@ -32,6 +32,6 @@
 
 
 
-###  Elasticsearch
+###  Elasticsearch  
 - [ES及插件安装](https://github.com/xinzhuxiansheng/blog-notes/blob/master/Elasticsearch/ES及插件安装.md)
 - [源码编译及导入Idea](https://github.com/xinzhuxiansheng/blog-notes/blob/master/Elasticsearch/源码编译及导入Idea.md)

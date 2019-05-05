@@ -20,7 +20,9 @@
 
 **`框架`**
 
-| <img src="docs/images/elasticsearch_icon.jpg" width="30" hegiht="30" align=center /> | <img src="docs/images/apache druid.png" width="55" hegiht="55" align=center /> | 🖥 |
+| <img src="docs/images/elasticsearch_icon.jpg" width="30" hegiht="30" align=center /> 
+| <img src="docs/images/apache druid.png" width="55" hegiht="55" align=center /> 
+| <img src="docs/images/kafka_icon" width="55" hegiht="55" align=center /> |
 | :--------: | :---------: | :---------: |
 | [Elasticsearch](#Elasticsearch) | [Apache Druid](#Apache-Druid)|[Kafka](#Kafka) |
 

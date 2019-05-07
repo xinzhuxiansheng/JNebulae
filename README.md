@@ -32,4 +32,5 @@
 
 ###  Elasticsearch  
 - [ES及插件安装](https://github.com/xinzhuxiansheng/blog-notes/blob/master/Elasticsearch/ES及插件安装.md)
+- [ES cat APIS](https://github.com/xinzhuxiansheng/blog-notes/blob/master/Elasticsearch/Elasticsearch cat APIS.md)
 - [ES源码编译及导入Idea](https://github.com/xinzhuxiansheng/blog-notes/blob/master/Elasticsearch/ES源码编译及导入Idea.md)

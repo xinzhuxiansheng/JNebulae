@@ -7,7 +7,7 @@
 </div><br>
 
 
-> `Java Core Nebulae`：环绕 Java 星云知识库 :milky_way:。
+> `JNebulae`：环绕 Java 星云知识库 :milky_way:。
 
 <br/>
 

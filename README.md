@@ -29,6 +29,7 @@
 
 ### 基础
 - [Java System.getProperty()](https://github.com/xinzhuxiansheng/blog-notes/blob/master/Java/Java%20System.getProperty().md)
+- [Java JarURLConnection](https://github.com/xinzhuxiansheng/blog-notes/blob/master/Java/Java%20JarURLConnection.md)
 
 
 ###  Elasticsearch  

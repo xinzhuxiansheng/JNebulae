@@ -32,6 +32,9 @@
 - [Java JarURLConnection](https://github.com/xinzhuxiansheng/blog-notes/blob/master/Java/Java%20JarURLConnection.md)
 
 
+### 数据结构与算法
+- [二叉树](https://github.com/xinzhuxiansheng/blog-notes/blob/master/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E4%B8%8E%E7%AE%97%E6%B3%95/%E6%A0%91/%E4%BA%8C%E5%8F%89%E6%A0%91.md)
+
 ###  Elasticsearch  
 - [Elasticsearch及插件安装](https://github.com/xinzhuxiansheng/blog-notes/blob/master/Elasticsearch/Elasticsearch%E5%8F%8A%E6%8F%92%E4%BB%B6%E5%AE%89%E8%A3%85.md)
 - [Elasticsearch cat APIS](https://github.com/xinzhuxiansheng/blog-notes/blob/master/Elasticsearch/Elasticsearch%20cat%20APIS.md)
